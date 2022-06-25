@@ -18,7 +18,7 @@
 </details>
 <br />
 
-How-To:
+## How-To:
 1. Download the latest Fastboot Driver - [Google USB Driver](https://developer.android.com/studio/run/win-usb)
 2. Extract the ZIP File
 3. Connect your Device to the PC. If ADB is working for you, you can simply run ```adb reboot bootloader``` to instantly move to Fastboot Mode
