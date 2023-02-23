@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/7gcRvN8/USB.png" width="200"></a>
+<p align="center"><img src="https://github.com/K3V1991/Device-not-connecting-to-PC-in-Fastboot-Mode/blob/main/USB.png" width="200"></a>
 <h1 align="center"><b>Device not connecting to PC in Fastboot Mode</b></h1>
 <h4 align="center">Simple Guide so that your Windows PC can easily detect Android Devices through the Fastboot Command</h4>
 <br />
